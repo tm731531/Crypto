@@ -1,0 +1,6 @@
+C:\Users\ext_tomt\work\Code\NET\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\ext_tomt\work\Code\NET\Crypto\bin\Debug\Crypto.exe
+C:\Users\ext_tomt\work\Code\NET\Crypto\bin\Debug\Crypto.pdb
+C:\Users\ext_tomt\work\Code\NET\Crypto\obj\Debug\Crypto.csprojResolveAssemblyReference.cache
+C:\Users\ext_tomt\work\Code\NET\Crypto\obj\Debug\Crypto.exe
+C:\Users\ext_tomt\work\Code\NET\Crypto\obj\Debug\Crypto.pdb
